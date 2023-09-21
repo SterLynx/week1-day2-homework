@@ -1,4 +1,8 @@
-
+.logo {
+    width: 10%;
+    display: block;
+    margin: auto;
+}
 
 .center {
             margin: auto;
@@ -27,6 +31,9 @@
         .need-help {
 
             color: blue;
+            text-decoration: none;
+            display: block;
+            margin: 10px;
 
         }
 
@@ -42,7 +49,7 @@
             background-color: #d4d4d4;
             position: absolute;
             width: 100%;
-            top: 18%;
+            top: 15%;
             display: inline-block;
             width: 25%;
             margin-left: 60px;
@@ -67,6 +74,7 @@
         .resetpass {
             color: blue;
             padding-left: 300px;
+            text-decoration: none;
 
         }
 
@@ -85,4 +93,5 @@
             padding: 40px;
             color: blue;
             margin-top: 100px;
+            text-decoration: none;
         }
